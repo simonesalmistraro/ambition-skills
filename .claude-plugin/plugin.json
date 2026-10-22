@@ -1,0 +1,11 @@
+{
+  "name": "ambition-skills",
+  "version": "0.1.0",
+  "description": "Three skills for more ambitious work with models: deepen a task, red-team it with a cross-discipline crew, and test assumptions against held-out data.",
+  "author": { "name": "Simone Salmistraro", "url": "https://github.com/simonesalmistraro" },
+  "homepage": "https://github.com/simonesalmistraro/ambition-skills",
+  "repository": "https://github.com/simonesalmistraro/ambition-skills",
+  "license": "MIT",
+  "keywords": ["skills", "agent-skills", "prompting", "red-team", "data-analysis"],
+  "skills": "./skills/"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ambition-skills",
+  "owner": {
+    "name": "Simone Salmistraro",
+    "url": "https://github.com/simonesalmistraro"
+  },
+  "metadata": {
+    "description": "Skills for more ambitious work with models (Claude Code, Codex, opencode).",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ambition-skills",
+      "source": "./",
+      "description": "deepen, red-team-crew and assumption-check skills."
+    }
+  ]
+}
